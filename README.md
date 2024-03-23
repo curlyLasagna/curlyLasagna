@@ -1,24 +1,5 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Luis. I love exploring different open source projects and figuring out ways I can incorporate it to side projects or my life.
-
-My love of open source started with my usage of GNU/Linux.
-
-I'm currently using Arch Linux<img src='https://i.redd.it/2bpa3biaa3r71.png' width=70> as my daily driver.
+I'm Luis. I love exploring different technologies I hear about through the internet and learning more about it to look for ways I can incorporate it to my life.
 
 Currently learning Nix to manage packages and creating deterministic and reproducible development environments.
-
-<!--
-**curlyLasagna/curlyLasagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
