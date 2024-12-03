@@ -4,4 +4,8 @@ I'm Luis. I love exploring different technologies I hear about through the inter
 
 Currently learning Nix to manage packages and creating deterministic and reproducible development environments.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curlyLasagna&hide_progress=true)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curlyLasagna)](https://github.com/anuraghazra/github-readme-stats)
+
+
